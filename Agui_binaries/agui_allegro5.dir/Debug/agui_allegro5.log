@@ -1,0 +1,17 @@
+﻿  Building Custom Rule C:/Users/Robert/Documents/agui/Agui-master/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/Robert/Documents/agui/Agui_binaries/CMakeFiles/generate.stamp is up-to-date.
+  Allegro5Font.cpp
+c:\users\robert\documents\agui\agui-master\src\agui\backends\allegro5\allegro5font.cpp(41): fatal error C1083: Cannot open include file: 'Agui/Backends/Allegro5/Allegro5Font.hpp': No such file or directory
+  Allegro5FontLoader.cpp
+c:\users\robert\documents\agui\agui-master\src\agui\backends\allegro5\allegro5fontloader.cpp(41): fatal error C1083: Cannot open include file: 'Agui/Backends/Allegro5/Allegro5FontLoader.hpp': No such file or directory
+  Allegro5Graphics.cpp
+c:\users\robert\documents\agui\agui-master\src\agui\backends\allegro5\allegro5graphics.cpp(41): fatal error C1083: Cannot open include file: 'Agui/Backends/Allegro5/Allegro5Graphics.hpp': No such file or directory
+  Allegro5Image.cpp
+c:\users\robert\documents\agui\agui-master\src\agui\backends\allegro5\allegro5image.cpp(41): fatal error C1083: Cannot open include file: 'Agui/Backends/Allegro5/Allegro5Image.hpp': No such file or directory
+  Allegro5ImageLoader.cpp
+c:\users\robert\documents\agui\agui-master\src\agui\backends\allegro5\allegro5imageloader.cpp(41): fatal error C1083: Cannot open include file: 'Agui/Backends/Allegro5/Allegro5ImageLoader.hpp': No such file or directory
+  Allegro5Input.cpp
+c:\users\robert\documents\agui\agui-master\src\agui\backends\allegro5\allegro5input.cpp(41): fatal error C1083: Cannot open include file: 'Agui/Backends/Allegro5/Allegro5Input.hpp': No such file or directory
+  Allegro5CursorProvider.cpp
+c:\users\robert\documents\agui\agui-master\src\agui\backends\allegro5\allegro5cursorprovider.cpp(41): fatal error C1083: Cannot open include file: 'Agui/Backends/Allegro5/Allegro5CursorProvider.hpp': No such file or directory
+  Generating Code...

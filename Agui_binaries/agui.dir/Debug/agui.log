@@ -1,0 +1,81 @@
+﻿  Building Custom Rule C:/Users/Robert/Documents/agui/Agui-master/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/Robert/Documents/agui/Agui_binaries/CMakeFiles/generate.stamp is up-to-date.
+  WinClipboard.cpp
+  Clipboard.cpp
+  ActionEvent.cpp
+  ActionListener.cpp
+  BaseTypes.cpp
+  BlinkingEvent.cpp
+  BorderLayout.cpp
+  CursorProvider.cpp
+  Color.cpp
+  Dimension.cpp
+  EmptyWidget.cpp
+  EventArgs.cpp
+  FlowLayout.cpp
+  FocusListener.cpp
+  FocusManager.cpp
+  Font.cpp
+  Graphics.cpp
+  GridLayout.cpp
+  Gui.cpp
+c:\users\robert\documents\agui\agui-master\src\agui\gui.cpp(525): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\robert\documents\agui\agui-master\src\agui\gui.cpp(666): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Image.cpp
+  Generating Code...
+  Compiling...
+  Input.cpp
+  KeyboardListener.cpp
+  Layout.cpp
+  MouseListener.cpp
+  Point.cpp
+  Rectangle.cpp
+  ResizableText.cpp
+  ResizableBorderLayout.cpp
+  SelectionListener.cpp
+  TableLayout.cpp
+  Transform.cpp
+  TopContainer.cpp
+  Widget.cpp
+  WidgetListener.cpp
+  Button.cpp
+  ButtonGroup.cpp
+  ButtonListener.cpp
+  CheckBox.cpp
+  CheckBoxListener.cpp
+  DropDown.cpp
+  Generating Code...
+  Compiling...
+  DropDownListener.cpp
+  Frame.cpp
+  FrameListener.cpp
+  ImageWidget.cpp
+  Label.cpp
+  LabelListener.cpp
+  ListBox.cpp
+  PopUpMenu.cpp
+  PopUpMenuItem.cpp
+  ListBoxListener.cpp
+  RadioButton.cpp
+  RadioButtonListener.cpp
+  RadioButtonGroup.cpp
+  HScrollBar.cpp
+  HScrollBarListener.cpp
+  VScrollBar.cpp
+  VScrollBarListener.cpp
+  ScrollPane.cpp
+  Slider.cpp
+  SliderListener.cpp
+  Generating Code...
+  Compiling...
+  Tab.cpp
+  TabbedPane.cpp
+  TabbedPaneListener.cpp
+  TextBox.cpp
+  TextBoxListener.cpp
+  ExtendedTextBox.cpp
+  TextField.cpp
+  TextFieldListener.cpp
+  ToolTip.cpp
+  Generating Code...
+  agui.vcxproj -> C:\Users\Robert\Documents\agui\Agui_binaries\Debug\agui.lib

@@ -1,0 +1,4 @@
+C:/Users/Robert/Documents/agui/Agui_binaries/CMakeFiles/agui_allegro5.dir
+C:/Users/Robert/Documents/agui/Agui_binaries/CMakeFiles/agui.dir
+C:/Users/Robert/Documents/agui/Agui_binaries/CMakeFiles/ALL_BUILD.dir
+C:/Users/Robert/Documents/agui/Agui_binaries/CMakeFiles/ZERO_CHECK.dir
